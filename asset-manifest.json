@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CharlesGPT-React/static/css/main.a57b99f4.css",
+    "main.js": "/CharlesGPT-React/static/js/main.2cb0b118.js",
+    "index.html": "/CharlesGPT-React/index.html",
+    "main.a57b99f4.css.map": "/CharlesGPT-React/static/css/main.a57b99f4.css.map",
+    "main.2cb0b118.js.map": "/CharlesGPT-React/static/js/main.2cb0b118.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a57b99f4.css",
+    "static/js/main.2cb0b118.js"
+  ]
+}
